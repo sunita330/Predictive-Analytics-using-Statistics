@@ -1,5 +1,3 @@
----
-
 ```md
 # Assignment 6 – Mashup Application (Program 1 & Program 2)
 
