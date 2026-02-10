@@ -1,3 +1,5 @@
+
+
 ```md
 # Assignment 6 – Mashup Application (Program 1 & Program 2)
 
@@ -221,7 +223,6 @@ It demonstrates command-line processing, multimedia handling, web development, a
 
 Both **Program 1 (CLI)** and **Program 2 (Web Application)** fully satisfy the assignment requirements.
 
----
-
+```
 ```
 
