@@ -29,7 +29,7 @@ All libraries are open-source and available via PyPI.
 
 ## 📂 Project Structure
 ```
-
+```
 Assignment6_Mashup/
 │
 ├── 102303814.py          # Program 1 – CLI Mashup
@@ -39,7 +39,7 @@ Assignment6_Mashup/
 ├── videos/               # Downloaded videos (generated at runtime)
 ├── output.mp3            # Mashup audio (generated)
 └── mashup.zip             # Zipped output (generated)
-
+```
 ```
 
 Generated files are not committed to GitHub.
