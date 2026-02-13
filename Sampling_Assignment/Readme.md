@@ -60,8 +60,4 @@ The dataset contains highly imbalanced classes where fraudulent transactions are
 
 ---
 
-## ▶️ How to Run
 
-```bash
-pip install pandas numpy scikit-learn imbalanced-learn matplotlib
-python sampling_assignment.py
